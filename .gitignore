@@ -1,0 +1,7 @@
+dist/
+.env
+node_modules/
+public/assets/uploads/attach_messages
+public/assets/uploads/group_assets
+public/assets/uploads/groups
+public/assets/uploads/photos
