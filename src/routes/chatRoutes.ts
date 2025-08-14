@@ -18,6 +18,7 @@ const uploadAttach = multer({
     },
 })
 
+// Define routes for chat functionality
 chatRoutes.get(
     "/chat/rooms",
     verifyToken,
